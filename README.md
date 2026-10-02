@@ -23,16 +23,16 @@ Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I
 
 ## 🔥 Github Stats
 
-<table>
+<table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="58%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=0xdolus&show_icons=true&theme=transparent&title_color=ff4d6d&icon_color=ff4d6d&text_color=c9d1d9&bg_color=0d1117&border_color=ff4d6d&hide_border=false" width="100%" alt="GitHub stats">
 
 <img src="https://streak-stats.demolab.com/?user=0xdolus&theme=transparent&ring=ff4d6d&fire=ff4d6d&currStreakLabel=ff4d6d&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border=ff4d6d&background=0d1117" width="100%" alt="GitHub streak">
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="42%" align="center" valign="top">
 
 <img src="assets/character.png" width="100%" alt="Character">
 
