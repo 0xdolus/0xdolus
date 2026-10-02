@@ -9,7 +9,7 @@
   <a href="https://buymeacoffee.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Coffee"></a>
 </p>
 
-Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
+Hi 👋, I am **layla**, an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
 <details>
 <summary>👀 More about me</summary>
