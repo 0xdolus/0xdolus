@@ -14,9 +14,9 @@ Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I
 <details>
 <summary>👀 More about me</summary>
 
-- 🔭 Currently working on: YOUR_PROJECT
-- 🌱 Learning: YOUR_TECH
-- 💬 Ask me about: JavaScript, Web Development, Design
+- 🔭 Currently working on: [flixie](https://github.com/0xdolus/flixie)
+- 🌱 Learning: Network pentesting
+- 💬 Ask me about: Android Development, Web Development, JavaScript, Design
 - 📫 Reach me on Discord: **0xdolus**
 
 </details>
@@ -43,7 +43,3 @@ Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I
 ## 🛠 Tech Stack
 
 <img src="assets/skills.svg" width="100%" alt="Tech stack">
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=0xdolus&label=Visitors&style=flat-square&color=8957e5" height="16" alt="Visitors">
-</p>
