@@ -34,7 +34,7 @@ Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I
 </td>
 <td width="38%" align="center" valign="top">
 
-<img src="assets/character.png" width="230" alt="Character">
+<img src="assets/character.jpg" width="230" alt="Character">
 
 </td>
 </tr>
