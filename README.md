@@ -40,19 +40,6 @@ Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I
 </tr>
 </table>
 
-## 📘 My top open source projects
-
-<a href="https://github.com/0xdolus/marrow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdolus&repo=marrow&theme=dark&bg_color=0d1117&border_color=30363d" width="32%" alt="marrow"></a>
-<a href="https://github.com/0xdolus/flixie"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdolus&repo=flixie&theme=dark&bg_color=0d1117&border_color=30363d" width="32%" alt="flixie"></a>
-<a href="https://github.com/0xdolus/v2ray-worker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xdolus&repo=v2ray-worker&theme=dark&bg_color=0d1117&border_color=30363d" width="32%" alt="v2ray-worker"></a>
-
-<p>
-  <a href="https://github.com/0xdolus?tab=repositories"><img src="https://img.shields.io/badge/ALL%20REPOS-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="All repos"></a>
-</p>
-
 <p align="right">
-  <img src="https://img.shields.io/badge/HIRE%20ME-yes-e05d44?style=flat-square" alt="Hire me">
-  <img src="https://img.shields.io/github/stars/0xdolus?style=flat-square&color=2ea043" alt="Stars">
-  <img src="https://img.shields.io/github/followers/0xdolus?style=flat-square&color=1f6feb" alt="Followers">
-  <img src="https://komarev.com/ghpvc/?username=0xdolus&label=Visitors&style=flat-square&color=8957e5" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=0xdolus&label=Visitors&style=flat-square&color=8957e5" height="16" alt="Visitors">
 </p>
