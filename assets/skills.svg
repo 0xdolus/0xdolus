@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 284" width="440" height="284" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+<style>.t{fill:#c9d1d9;font-size:14px;font-weight:600}.k{fill:#21262d}@media (prefers-color-scheme:light){.t{fill:#24292f}.k{fill:#d8dee4}}</style>
+<text class="t" x="0" y="21">JavaScript</text>
+<rect class="k" x="110" y="9" width="320" height="16" rx="8"/>
+<rect x="110" y="9" width="294" height="16" rx="8" fill="#4ee6b8"/>
+<text class="t" x="0" y="61">Python</text>
+<rect class="k" x="110" y="49" width="320" height="16" rx="8"/>
+<rect x="110" y="49" width="269" height="16" rx="8" fill="#4ee6b8"/>
+<text class="t" x="0" y="101">Kotlin</text>
+<rect class="k" x="110" y="89" width="320" height="16" rx="8"/>
+<rect x="110" y="89" width="243" height="16" rx="8" fill="#4ee6b8"/>
+<text class="t" x="0" y="141">Git</text>
+<rect class="k" x="110" y="129" width="320" height="16" rx="8"/>
+<rect x="110" y="129" width="218" height="16" rx="8" fill="#4ee6b8"/>
+<text class="t" x="0" y="181">Cloudflare</text>
+<rect class="k" x="110" y="169" width="320" height="16" rx="8"/>
+<rect x="110" y="169" width="192" height="16" rx="8" fill="#4ee6b8"/>
+<text class="t" x="0" y="221">Linux</text>
+<rect class="k" x="110" y="209" width="320" height="16" rx="8"/>
+<rect x="110" y="209" width="166" height="16" rx="8" fill="#4ee6b8"/>
+<text class="t" x="0" y="261">Node.js</text>
+<rect class="k" x="110" y="249" width="320" height="16" rx="8"/>
+<rect x="110" y="249" width="141" height="16" rx="8" fill="#4ee6b8"/>
+</svg>

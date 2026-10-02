@@ -40,6 +40,10 @@ Hi 👋, I am **0xdolus**, an enthusiastic and ambitious full stack developer. I
 </tr>
 </table>
 
+## 🛠 Tech Stack
+
+<img src="assets/skills.svg" width="100%" alt="Tech stack">
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=0xdolus&label=Visitors&style=flat-square&color=8957e5" height="16" alt="Visitors">
 </p>
